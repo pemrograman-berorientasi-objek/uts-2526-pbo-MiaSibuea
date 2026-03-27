@@ -1,15 +1,8 @@
-package academic.driver;
+package fintech.driver;
+
 
 /**
- * @author NIM Nama
- * @author NIM Nama
+ * @author 12S24005 Mia Nathania Sibuea
  */
 public class Driver4 {
 
-    public static void main(String[] _args) {
-
-        // codes
-
-    }
-
-}

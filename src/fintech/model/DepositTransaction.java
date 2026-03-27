@@ -1,4 +1,3 @@
-
 package fintech.model;
 
 public class DepositTransaction extends Transaction {

@@ -19,4 +19,13 @@ public abstract class Transaction {
 
     public abstract String getType();
 
+    public String getTimestamp() {
+        return timestamp;
+    }
+
+    public String getId() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getId'");
+    }
+
 }
