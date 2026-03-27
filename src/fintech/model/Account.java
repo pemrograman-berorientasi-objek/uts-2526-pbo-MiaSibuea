@@ -2,7 +2,7 @@ package fintech.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Account {
+public class Account { 
 
     private String username;
     private String name;

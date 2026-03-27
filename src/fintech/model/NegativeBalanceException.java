@@ -6,4 +6,4 @@ public class NegativeBalanceException extends Exception {
         super(message);
     }
 
-}
+} 

@@ -18,4 +18,4 @@ public class TransferTransaction extends Transaction {
         return receiver;
     }
 
-}
+} 
